@@ -3,6 +3,7 @@ Hei
 ( : )
 _{ }_
 Morjesta
+Moi! T:Niina
 
 Projektin ideana on luoda kyselylomake, jonka avulla voidaan selvittää Haaga-Helian ammattikorkeakoulun kahvilan Hav-A-Javan asiakkaiden tyytyväisyyttä ja mahdollisia kehittämis ideoita. 
 
